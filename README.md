@@ -1,5 +1,7 @@
-# dhsi-coding-fundamentals-2019
-Course content for the 2019 DHSI course: Computing Fundamentals for Human(s|ists), which will be held at the University of Victoria, BC on June 3-7, 2019.  This is a break from previous repos, which can still be found at [dhsi-coding-fundamentals-2018](https://github.com/ComputeCanada/dhsi-coding-fundamentals-2018)
+# dhsi-coding-fundamentals-2020
+Course content for the 2019 DHSI course: Computing Fundamentals for Human(s|ists), which will be held at the University of Victoria, BC on June 8-12, 2020.  This is a break from previous repos, which can still be found at [dhsi-coding-fundamentals-2018](https://github.com/ComputeCanada/dhsi-coding-fundamentals-2018)
+
+The global schedule for 2020 is here: [https://dhsi.org/schedule-week-2/](https://dhsi.org/schedule-week-2/)
 
 John Simpson | john.simpson@computecanada.ca | [Twitter](https://twitter.com/symulation)  
 Jessica Otis | jmotis13@gmail.com | [Twitter](https://twitter.com/jotis13)
