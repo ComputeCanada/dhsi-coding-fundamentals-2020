@@ -51,9 +51,10 @@ You should walk away from this course with the following knowledge:
   
   ## Day 3: Practical Python and Project Boosters
 1. File Imports and Exports
-2. Strategies for Getting Help
-3. Project Boosters (real-world examples requested by students to kick-start their individual projects)
-4. Project Brainstorming
+2. Busting Out of the Notebooks
+3. Strategies for Getting Help
+4. Project Boosters (real-world examples requested by students to kick-start their individual projects)
+5. Project Brainstorming
   
   ## Day 4: Individual Projects
 1. Students work on individual projects, with instructor support
