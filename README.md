@@ -3,7 +3,7 @@ Course content for the 2019 DHSI course: Computing Fundamentals for Human(s|ists
 
 The global schedule for 2020 is here: [https://dhsi.org/schedule-week-2/](https://dhsi.org/schedule-week-2/)
 
-John Simpson | john.simpson@computecanada.ca | [Twitter](https://twitter.com/symulation)  
+Marie Burle | marie.burle@westgrid.ca | 
 Jessica Otis | jmotis13@gmail.com | [Twitter](https://twitter.com/jotis13)
 
 ## Class Description
@@ -24,7 +24,7 @@ You should walk away from this course with the following knowledge:
   
   ## Before Day 1: Software Installation
 
-**Anaconda** - If possible, please install Anaconda before this course begins.  You can find the free download at -> https://www.anaconda.com/distribution/#download-section. Make sure to download version 5.1 (or greater) of Anaconda and choose the Python 3.6 (or greater) version.  If you have trouble with the install then we will help you complete the install on the first day of class.
+**Anaconda** - If possible, please install Anaconda before this course begins.  You can find the free download at -> https://www.anaconda.com/distribution/#download-section. Make sure to download version 2019.10 (or greater) of Anaconda and choose the Python 3.7 (or greater) version.  If you have trouble with the install then we will help you complete the install on the Sunday before the first day of class.
 
 **Text Editor** - Most operating systems come pre-installed with at least one version of a text editor. However, programmers tend to like to use more complex text editors that are designed to work with programming languages and provide helpful visual cues that alert users to potential errors in their code. There are a lot of options to use, as you can see from this [list](https://en.wikipedia.org/wiki/List_of_text_editors ). A good option is [Sublime Text 3](https://www.sublimetext.com/3 ), which runs uniformly across platforms and has a nice combination of a simple interface and powerful extensions, however you can use a different text editor if you have one you're already familiar with. Jessica, for example, prefers the Mac-only text editor [BBEdit](https://www.barebones.com/products/bbedit/).
   
@@ -34,25 +34,24 @@ You should walk away from this course with the following knowledge:
     1. [Course Philosophy](https://github.com/ComputeCanada/dhsi-coding-fundamentals-2018/blob/master/book-chapter/main.md )
     2. Goals
     3. Schedule
-2. Jupyter Notebooks
-	1. Introduction to Jupyter Notebooks
-	2. Jupyter Notebook Explorations (while Instructors debug Anaconda installations as needed)
-	3. Discussion of Jupyter Notebook Examples
-3. Introductions
-4. Command Line 101
+2. Introductions
+3. Command Line 101
 	1. Basic Commands
 	2. Hard Drive Navigation
-5. Python 101
+4. Python 101
 	1. Python in the Command Line
-	2. Hello World
+	2. Python in a Text Editor
+	3. iPython
   
-  ## Day 2: Practical Python
-1. Python for Data Cleaning, Analysis, and Visualization
-2. Python for Web Scraping (Newspapers)
-3. Python for Mapping
+  ## Day 2: Python Basics
+1. Introduction to Jupyter Notebooks
+2. Data Types and Variables
+3. Libraries, Functions, and Methods
+4. Conditionals
+5. Loops
   
-  ## Day 3: Practical Python, Cont. and Project Boosters
-1. Python for Web Scraping (Twitter)
+  ## Day 3: Practical Python and Project Boosters
+1. File Imports and Exports
 2. Strategies for Getting Help
 3. Project Boosters (real-world examples requested by students to kick-start their individual projects)
 4. Project Brainstorming
