@@ -17,7 +17,6 @@ The programming language used for most of the course will be Python. Python has 
 You should walk away from this course with the following knowledge:
   - Using the command line to manage files and folders, and run scripts.
   - Installing and accessing Python via multiple platforms.
-  - Learn to write psuedocode to map out your program.
   - Understanding of the Python 3.x programming language, including the ability to write simple scripts.
   
   ## Reading Material
