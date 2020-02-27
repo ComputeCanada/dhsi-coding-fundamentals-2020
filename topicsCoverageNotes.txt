@@ -1,45 +1,17 @@
-dataAnalysis.py
+Topics to cover in Day 2:
+- booleans, strings vs. floats vs. integers, lists, variables
+- importing libraries, assigning libraries nicknames, methods and passing parameters into methods
+- conditionals and except
+- for and while loops
 
-- importing libraries
-- assigning libraries nicknames
-- variables
-- methods of functions
-- passing parameters into methods
-- lists, including list indices
-- booleans, strings
+Topics to cover in Day 3
+- importing from from CSV and from a URL, open/closing files
 
--- importing from/exporting to CSV with pandas
--- basic text analysis
-
-mapFlightsCSV.py
-
-- importing libraries
-- reader objects
-- for loops
-
--- importing from from CSV, open/closing files
-
-mapFlightsSheets.py
-
-- importing libraries
-- lists
-- while loops
-- strings vs. floats vs. integers
-
--- creating API credentials, importing from Sheets
-
-mediaReader.py
-
-- importing libraries
-- for loops
-
--- importing data from a url
 
 NOT YEY COVERED
-
-- conditionals
-- except
-- create your own functions
+- creating API credentials, importing from Sheets
 - dictionaries
 - tuples
+- reader objects
 - object-oriented programming
+- create your own functions
