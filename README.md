@@ -3,7 +3,7 @@ Course content for the 2019 DHSI course: Computing Fundamentals for Human(s|ists
 
 The global schedule for 2020 is here: [https://dhsi.org/schedule-week-2/](https://dhsi.org/schedule-week-2/)
 
-Marie Burle | marie.burle@westgrid.ca | 
+Marie Burle | marie.burle@westgrid.ca | [Twitter](https://twitter.com/MHBurle)
 Jessica Otis | jmotis13@gmail.com | [Twitter](https://twitter.com/jotis13)
 
 ## Class Description
@@ -23,9 +23,13 @@ You should walk away from this course with the following knowledge:
   
   ## Before Day 1: Software Installation
 
-**Anaconda** - If possible, please install Anaconda before this course begins.  You can find the free download at -> https://www.anaconda.com/distribution/#download-section. Make sure to download version 2019.10 (or greater) of Anaconda and choose the Python 3.7 (or greater) version.  If you have trouble with the install then we will help you complete the install on the Sunday before the first day of class.
+**Eduroam** - If you come from an institution that has access to Eduroam, please activate and make sure you have access to Eduroam wifi before you leave your home institution. The UVic Eduroam wireless is generally better than the dedicated DHSI wireless network.
+
+**Anaconda** - Please install Anaconda before this course begins.  You can find the free download at -> https://www.anaconda.com/distribution/#download-section. Make sure to download version 2019.10 (or greater) of Anaconda and choose the Python 3.7 (or greater) version.  If you have trouble with the install then we will help you complete the install on the Sunday before the first day of class.
 
 **Text Editor** - Most operating systems come pre-installed with at least one version of a text editor. However, programmers tend to like to use more complex text editors that are designed to work with programming languages and provide helpful visual cues that alert users to potential errors in their code. There are a lot of options to use, as you can see from this [list](https://en.wikipedia.org/wiki/List_of_text_editors ). A good option is [Sublime Text 3](https://www.sublimetext.com/3 ), which runs uniformly across platforms and has a nice combination of a simple interface and powerful extensions, however you can use a different text editor if you have one you're already familiar with. Jessica, for example, prefers the Mac-only text editor [BBEdit](https://www.barebones.com/products/bbedit/).
+
+**MobaXTerm** - For WINDOWS USERS ONLY: if you are bringing a machine with a Windows operating system, please download the free version of MobaXTerm from http://mobaxterm.mobatek.net/download.html. This will enable you to access the command line on your machine. MacOS and Linux machines have this functionality built in.
   
   ## Day 1: Welcome, Introduction to Python and the Command Line
 
@@ -56,8 +60,9 @@ You should walk away from this course with the following knowledge:
 4. Project Boosters (real-world examples requested by students to kick-start their individual projects)
 5. Project Brainstorming
   
-  ## Day 4: Individual Projects
+  ## Day 4: Group Projects
 1. Students work on individual projects, with instructor support
+2. Optional Coding Evening
   
   ## Day 5: Race to the Finish
 1. Students work on individual projects, with instructor support
