@@ -1,0 +1,3 @@
+[submodule "covid/covid_db"]
+	path = covid/covid_db
+	url = git@github.com:CSSEGISandData/COVID-19.git
