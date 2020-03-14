@@ -3,7 +3,7 @@ Course content for the 2019 DHSI course: Computing Fundamentals for Human(s|ists
 
 The global schedule for 2020 is here: [https://dhsi.org/schedule-week-2/](https://dhsi.org/schedule-week-2/)
 
-Marie Burle | marie.burle@westgrid.ca | [Twitter](https://twitter.com/MHBurle)
+Marie-Hélène (Marie) Burle | marie.burle@westgrid.ca | [Twitter](https://twitter.com/MHBurle)
 Jessica Otis | jmotis13@gmail.com | [Twitter](https://twitter.com/jotis13)
 
 ## Class Description
