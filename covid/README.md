@@ -1,0 +1,1 @@
+This folder contains materials generated for the "motivating example" that would have formed the basis for students' attempts to learn specific Python techniques.

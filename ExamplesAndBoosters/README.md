@@ -1,0 +1,3 @@
+This folder contains subfolders of in class program examples and project boosters from previous years of DHSI.
+We walked students through the in class programs, while teaching them about specific coding techniques.
+The "boosters"  were intended to help students create their own projects by allowing them to copy-and-paste relevant sections of code from similar examples. Some are in Jupyter Notebooks and some are in .py files, depending on the instructor's preference.
